@@ -1,0 +1,6 @@
+resources/base.robot
+appium-screenshot*
+log.html
+output.xml
+report.html
+*.png

@@ -1,0 +1,7 @@
+robotframework
+robotframework-appiumlibrary
+robotframework-databaselibrary
+robotframework-requests
+robotframework-extendedrequestslibrary
+pymysql
+pymssql
